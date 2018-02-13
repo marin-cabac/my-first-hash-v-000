@@ -12,7 +12,7 @@ def shipping_manifest
   # We have 5 whale bone corsets, 2 porcelain vases and 3 oil paintings
   the_manifest=Hash.new
   the_manifest=retrieval
- 
+
 adding
 
 end
